@@ -1,2 +1,3 @@
 index.js
+*.vsix
 node_modules/

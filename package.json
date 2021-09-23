@@ -1,10 +1,14 @@
 {
   "name": "qb-theme",
   "displayName": "Quantum Black Theme",
-  "publisher": "Pascal brokmeier",
+  "publisher": "pascalwhoop",
   "description": "A QB theme for Visual Studio Code",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pascalwhoop/qb-vscode-theme"
+  },
   "scripts": {
     "prestart": "tsc index.ts",
     "start": "node index.js"
