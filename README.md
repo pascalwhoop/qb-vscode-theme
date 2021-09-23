@@ -11,3 +11,5 @@ being exactly matching the official branding. I just wanted to make a nice theme
 share it with my colleagues 😊
 
 I will leave it here until someone complains. I hope that doesn't happen 🤞
+
+![example screenshot](images/example.png)
