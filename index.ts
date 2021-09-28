@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { generateTheme, IColorSet } from 'vscode-theme-generator';
 
-const themeName = 'Generated';
+const themeName = 'QB';
 const colors = {
   // official colors
   black: '#000000',
